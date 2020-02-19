@@ -1,1 +1,3 @@
-react-testing-jest
+# React Testing Jest
+
+Example app demonstrating testing react with jest
